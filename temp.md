@@ -1,6 +1,10 @@
-# 통계 Wiki
+# 통계 Wiki 만들기
+가 목표....
+
+*일단 정리하기!*
 
 > 기초통계를 보기 쉽게 정리한 문서만들기
+
 
 ## 탐색적 데이터 분석, EDA(Exploratory Data Analysis)
 
